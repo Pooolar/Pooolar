@@ -17,5 +17,5 @@
 
 ## Contact
 ```
-Polar#3151 On discord
+Polar#3151 on discord
 ```
