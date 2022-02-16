@@ -9,7 +9,7 @@
 
 ## Skills
 ```
-- 👨‍💻 C++ (main), PHP
+- 👨‍💻 C++ (main), C, PHP
 
 - ⚙️ Reverse Engineering
 ```
