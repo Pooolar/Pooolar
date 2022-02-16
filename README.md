@@ -5,12 +5,11 @@
 - 👥 All my current projects are not open src.
 
 - 🧭 Currently spending my time developing "gaming chairs".
-
 ```
 
 ## Skills
 ```
-- 👨‍💻 C++, PHP
+- 👨‍💻 C++ (main), PHP
 
 - ⚙️ Reverse Engineering
 ```
