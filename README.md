@@ -4,7 +4,7 @@
 ```
 - 👥 All my current projects are not open src.
 
-- 🧭 Currently spending my time developing gaming chairs for games.
+- 🧭 Currently spending my time developing "gaming chairs".
 
 ```
 
