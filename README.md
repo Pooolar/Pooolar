@@ -1,16 +1,21 @@
-### Hi there 👋
+## Info
 
-<!--
-**Pooolar/Pooolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+- 👥 All my current projects are not open src.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 Currently spending my time developing gaming chairs for games.
+
+```
+
+## Skills
+```
+- 👨‍💻 C++, PHP
+
+- ⚙️ Reverse Engineering
+```
+
+## Contact
+```
+Polar#3151 On discord
+```
