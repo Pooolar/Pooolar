@@ -2,7 +2,7 @@
 
 
 ```
-- 👥 All my current projects are not open src. (+10)
+- 👥 All my current projects are not open src.
 
 - 🧭 Currently spending my time developing "gaming chairs".
 ```
