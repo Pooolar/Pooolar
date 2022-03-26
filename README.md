@@ -16,5 +16,5 @@
 
 ## Contact
 ```
-Polar#3151 on discord
+No contact methods rn...
 ```
